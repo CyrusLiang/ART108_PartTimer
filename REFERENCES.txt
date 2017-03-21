@@ -3,3 +3,6 @@ https://youtu.be/g_x40IaVIsE
 
 background color changing from night to day viceversa
 https://www.reddit.com/r/gamemaker/comments/3w64no/help_81_how_to_change_background_colour_in_gml/
+
+start button
+http://gamemakerlab.com/gamemaker/simple-game-menu-game-maker-tutorial
